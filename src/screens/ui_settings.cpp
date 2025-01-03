@@ -164,7 +164,7 @@ void ui_settings_screen_init(void)
 
     loc_ta = lv_textarea_create(ui_settings);
     lv_obj_align(loc_ta, LV_ALIGN_TOP_LEFT, x_center + label_width, 350);
-    lv_textarea_set_placeholder_text(loc_ta, "***REMOVED***");
+    lv_textarea_set_placeholder_text(loc_ta, "Loc");
     lv_obj_set_size(loc_ta, ta_width, 40);
 
     /*Create a keyboard to use it with any of the text areas*/
