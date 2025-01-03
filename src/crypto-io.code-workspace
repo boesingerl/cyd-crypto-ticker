@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "crypto-io",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
