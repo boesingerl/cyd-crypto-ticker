@@ -12,6 +12,12 @@ https://github.com/user-attachments/assets/5a5a0f53-603e-4157-b374-5f24e80d367c
 
 Some inspiration (and Binance API code) taken from [https://github.com/nishad2m8/BTC-Ticker](https://github.com/nishad2m8/BTC-Ticker), be sure to check it out.
 
+## Case
+![Screenshot_20250103_121223](https://github.com/user-attachments/assets/deb33430-7cb8-426e-a9d8-ab88f5330d6b)
+
+The case is a slight remix from [https://www.printables.com/model/645166-esp32-28inch-touch-ips-cyd-lcd-screen-case](https://www.printables.com/model/645166-esp32-28inch-touch-ips-cyd-lcd-screen-case/files), to adjust to my variant of the CYD, and integrate the stand directly in the back of the case.
+
+
 ## Improvements I might work on
 
 - Loading screen
