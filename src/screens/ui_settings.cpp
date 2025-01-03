@@ -129,7 +129,7 @@ void ui_settings_screen_init(void)
     lat_ta = lv_textarea_create(ui_settings);
     lv_obj_align(lat_ta, LV_ALIGN_TOP_LEFT, x_center + label_width, 150);
     lv_obj_set_size(lat_ta, ta_width, 40);
-    lv_textarea_set_placeholder_text(lat_ta, "***REMOVED***");
+    lv_textarea_set_placeholder_text(lat_ta, "Lattitude");
 
     lv_obj_t * label4 = lv_label_create(ui_settings);
     lv_label_set_text(label4, "Longitude");
@@ -138,7 +138,7 @@ void ui_settings_screen_init(void)
     long_ta = lv_textarea_create(ui_settings);
     lv_obj_align(long_ta, LV_ALIGN_TOP_LEFT, x_center + label_width, 200);
     lv_obj_set_size(long_ta, ta_width, 40);
-    lv_textarea_set_placeholder_text(long_ta, "***REMOVED***");
+    lv_textarea_set_placeholder_text(long_ta, "Longitude");
 
     lv_obj_t * label5 = lv_label_create(ui_settings);
     lv_label_set_text(label5, "Crypto Token");
