@@ -22,4 +22,5 @@ The case is a slight remix from [https://www.printables.com/model/645166-esp32-2
 
 - Loading screen
 - Having one screen alive at a time, instead of all loaded at boot time
+- Clean code (first time using c++ and lvgl so it's super messy) 
 - Better settings screen (scrolling screen in view so the keyboard isn't in the way)
