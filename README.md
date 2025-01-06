@@ -4,10 +4,9 @@ Just a small project to display current and historic crypto prices on a **C**hea
 Since it worked nicely as a desktop station, also added a weather display and current time.
 The variant I'm working with is a JC2432W328C, but it should be usable on other variants with minimal changes.
 
-https://github.com/user-attachments/assets/5a5a0f53-603e-4157-b374-5f24e80d367c
+https://github.com/user-attachments/assets/2bcae8d9-e2d6-4a88-a820-27b487d05441
 
-(Video not 100% representative, didn't manage to run an emulator with Arduino libraries, so this was just recorded on figma)
-
+See other pictures in the [res folder](/res).
 ## Inspiration
 
 Some inspiration (and Binance API code) taken from [https://github.com/nishad2m8/BTC-Ticker](https://github.com/nishad2m8/BTC-Ticker), be sure to check it out.
